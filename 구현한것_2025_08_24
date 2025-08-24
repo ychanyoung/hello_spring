@@ -1,0 +1,8 @@
+h2, jpa, Validation(spring boot), aop, sql
+
+
+ID, 비밀번호를 통한 회원가입 구현
+
+회원 목록 확인 기능
+
+validation, bindingresult로 id 및 비밀번호 유효성 검증
